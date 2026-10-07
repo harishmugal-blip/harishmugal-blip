@@ -3,6 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=180&section=header&text=Harish%20Mirza&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20SaaS%20Builder%20%E2%80%A2%20Open%20Source&descSize=16&descAlignY=55&animation=fadeIn" width="100%" alt="Banner" />
 </p>
 
+<!-- ===== Profile Picture with Rotating Gradient Ring ===== -->
+<div align="center">
+  <a href="https://github.com/harishmugal-blip" target="_blank">
+    <img src="https://raw.githubusercontent.com/harishmugal-blip/harishmugal-blip/main/assets/profile.png" width="140" height="140" style="border-radius:50%; object-fit:cover; border:4px solid #58A6FF; box-shadow:0 0 30px rgba(88,166,255,0.5);" alt="Harish Mirza" onerror="this.src='https://avatars.githubusercontent.com/u/000000000?v=4'" />
+  </a>
+</div>
+
 <!-- ===== Typing Animation ===== -->
 <div align="center">
 
@@ -10,7 +17,10 @@
 
 </div>
 
-<br/>
+<!-- ===== Animated Wave Divider ===== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
+</p>
 
 <!-- ===== Profile Views + Visitor Map ===== -->
 <p align="center">
@@ -21,12 +31,36 @@
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-success?style=for-the-badge&logo=handshake&logoColor=white" alt="Status" />
 </p>
 
+<!-- ===== Resume Download Button ===== -->
+<p align="center">
+  <a href="https://github.com/harishmugal-blip/harishmugal-blip/raw/main/assets/Harish_Mirza_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/📄_Download_My_Resume-PDF-blueviolet?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
+  </a>
+  &nbsp;
+  <a href="mailto:harishmugal@gmail.com?subject=Work%20Opportunity&body=Hi%20Harish%2C%20I%20came%20across%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out%20regarding%20a%20work%20opportunity.">
+    <img src="https://img.shields.io/badge/💼_Hire_Me-Email_Me-success?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" />
+  </a>
+</p>
+
+<!-- ===== Animated Colored Divider ===== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored Divider" />
+</p>
+
 ---
 
 <!-- ===== Tech Stack ===== -->
 
 ## 🧰 Tech Stack
 
+### 💻 Languages & Frameworks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,bun,tailwind,prisma,mysql,mongodb,docker,git,figma,github,vscode&theme=dark&perline=9" alt="Skill Icons" />
+  </a>
+</p>
+
+### 🏷️ Detailed Badges
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -46,9 +80,13 @@
   <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google OAuth" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddyserver&logoColor=white" alt="Caddy" />
-  <img src="https://img.shields.io/badge/Prisma%20Migrate-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma Migrate" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<!-- ===== Animated Wave Divider ===== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%" alt="Wave Divider" />
 </p>
 
 ---
@@ -69,6 +107,17 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harishmugal-blip&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+</p>
+
+### 🏅 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-achievements.vercel.app/?user=harishmugal-blip&theme=dark&no-frame=true&columns=7&display=logged" alt="GitHub Achievements" />
+</p>
+
+<!-- ===== Lightning Divider ===== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/electric.png" width="100%" alt="Electric Divider" />
 </p>
 
 ### 🐍 Contribution Snake
