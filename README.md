@@ -137,12 +137,22 @@
 
 <p align="center">
   <a href="https://github.com/harishmugal-blip" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:harish@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/harishmirza2001" target="_blank"><img src="https://img.shields.io/badge/@harishmirza2001-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:harishmugal@gmail.com"><img src="https://img.shields.io/badge/harishmugal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://wa.me/917668483205" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-7668483205-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="tel:+917668483205"><img src="https://img.shields.io/badge/Call-7668483205-0066FF?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" /></a>
 </p>
 
-> 🔗 **Replace LinkedIn / Instagram / Email links** with your real ones — search for `https://www.linkedin.com/`, `https://www.instagram.com/`, and `harish@example.com` in this file.
+---
+
+### 📝 Contact Info
+
+```yaml
+email: "harishmugal@gmail.com"
+phone: "+91 7668483205"
+instagram: "@harishmirza2001"
+whatsapp: "wa.me/917668483205"
+```
 
 ---
 
