@@ -33,6 +33,10 @@
 
 <!-- ===== Resume Download Button ===== -->
 <p align="center">
+  <a href="https://potfoliobymirza.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-potfoliobymirza.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+  </a>
+  &nbsp;
   <a href="https://github.com/harishmugal-blip/harishmugal-blip/raw/main/assets/Harish_Mirza_Resume.pdf" download>
     <img src="https://img.shields.io/badge/📄_Download_My_Resume-PDF-blueviolet?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
   </a>
@@ -265,6 +269,16 @@
       <p>Docker, Caddy, Hostinger, standalone Next.js builds, GitHub Actions.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🛒 POS Software</h3>
+      <p>Point-of-Sale systems for retail, cafes & restaurants — billing, inventory, reporting.</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🎨 Portfolio Websites</h3>
+      <p>Custom creative portfolios (incl. retro themed) deployed on Vercel. <a href="https://potfoliobymirza.vercel.app/">View mine →</a></p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -272,6 +286,7 @@
 ## 📫 Connect with Me
 
 <p align="center">
+  <a href="https://potfoliobymirza.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-potfoliobymirza.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/harishmugal-blip" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.instagram.com/harishmirza2001" target="_blank"><img src="https://img.shields.io/badge/@harishmirza2001-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:harishmugal@gmail.com"><img src="https://img.shields.io/badge/harishmugal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -285,8 +300,10 @@
 
 ```yaml
 name: "Harish Mirza"
-role: "Full Stack Developer"
+role: "Full Stack Developer · Website Designer · Backend Developer"
+also_known_for: "POS Software"
 based_in: "India"
+portfolio: "https://potfoliobymirza.vercel.app/"
 email: "harishmugal@gmail.com"
 phone: "+91 7668483205"
 instagram: "@harishmirza2001"
@@ -297,6 +314,7 @@ focus:
   - "eCommerce"
   - "WhatsApp API integrations"
   - "Healthcare tech"
+  - "POS Software"
 deployment: ["Docker", "Caddy", "Hostinger", "Bun"]
 philosophy: "Ship clean, ship fast, improve later."
 ```
